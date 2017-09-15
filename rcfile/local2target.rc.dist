@@ -1,0 +1,16 @@
+hosts = host
+user  = user
+
+target_db_name = db
+target_db_user = user
+target_db_pass = pass
+
+target_wp_path      = /path/to/target/public_html
+target_sql_snapshot = /path/to/target/copy2local.sql.gz
+target_wp_snapshot  = /path/to/target/copy2local.tar.gz
+
+local_sql_snapshot = /path/to/local/copy2local.sql.gz
+local_wp_snapshot  = /path/to/local/copy2local.tar.gz
+
+origin_wp_url = http://somewhere.com
+target_wp_url = http://anywhere.com

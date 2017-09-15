@@ -1,0 +1,13 @@
+hosts = host
+user  = user
+
+origin_db_name = db
+origin_db_user = user
+origin_db_pass = pass
+
+origin_wp_path      = /o/path/to/public_html
+origin_sql_snapshot = /o/path/to/copy2local.sql.gz
+origin_wp_snapshot  = /o/path/to/copy2local.tar.gz
+
+local_sql_snapshot = /home/someone/Downloads/copy2local.sql.gz
+local_wp_snapshot  = /home/someone/Downloads/copy2local.tar.gz
