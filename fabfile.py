@@ -11,6 +11,6 @@ def local2target():
     _local2target(env)
 
 
-# def transplant():
-#     _origin2local(env)
-
+def transplant():
+    _origin2local(env)
+    _local2target(env)
