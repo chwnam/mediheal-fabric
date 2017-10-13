@@ -14,3 +14,5 @@ local_wp_snapshot  = /path/to/local/copy2local.tar.gz
 
 origin_wp_url = http://somewhere.com
 target_wp_url = http://anywhere.com
+
+origin_wp_path = /path/to/origin_wp
